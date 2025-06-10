@@ -1,5 +1,5 @@
 # batchsheetmaker
-This is the basic version of an app that assists with formulation and manufacturing. Not all of the functions work.
+This is the basic version of an app written in Python that assists with formulation and manufacturing. Not all of the functions work.
 
 Below a basic process of the batchsheetmaker program takes a formulation from formulation.csv and creates a batch sheet that can be used to make the material. A record of the 
 
